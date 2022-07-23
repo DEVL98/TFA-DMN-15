@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\v_models\f1firearms\gb"
+	"$bumpmap"					"models\weapons\v_models\f1firearms\gb_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"4"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges"	"[1 1 1]"	
+	"$nodecal"	"1"	
+}

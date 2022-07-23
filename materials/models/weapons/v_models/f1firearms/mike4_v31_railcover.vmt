@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\v_models\f1firearms\railcover"
+	"$bumpmap"					"models\weapons\v_models\f1firearms\railcover_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"300"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"30"
+	"$phongfresnelranges"	"[1 1 1]"
+        "$phongdisablehalflambert"  "1"
+
+        "$halflambert"                 "0"
+        "$nodecal"                     "1"
+        "$ambientocclusion"         "1"
+}

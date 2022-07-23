@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\weapons\mw2019_skele\tango21_v2_mag"
+	"$bumpmap"					"models\drgordon\weapons\mw2019_skele\tango21_v2_mag_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"2"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[1 1 1]"
+        "$phongdisablehalflambert"  "1"
+
+        "$halflambert"                 "0"
+        "$nodecal"                     "0"
+        "$ambientocclusion"         "1"
+}

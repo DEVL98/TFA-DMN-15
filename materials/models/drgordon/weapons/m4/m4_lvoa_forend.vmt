@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\weapons\m4\m4_lvoa_forend"
+	"$bumpmap"					"models\drgordon\weapons\m4\m4_lvoa_forend_n"
+
+	"$Phong"				    "1"
+	"$PhongBoost"               "18"
+	"$PhongExponent"            "37"
+	"$PhongFresnelRanges"	    "[1 1 1]"
+	"$phongalbedotint"			"1"
+	"$PhongDisableHalfLambert"  "1"
+	"$NormalmapAlphaPhongMask"  "0"
+
+	"$Rimlight" 			    "1"
+	"$Rimlightboost"			"0.1"
+	"$Rimlightexponent"			"1"
+	"$Rimmask"					"1"
+
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "metal"	
+}
